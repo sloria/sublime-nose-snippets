@@ -6,12 +6,17 @@ Sublime Text snippets for [nose](https://nose.readthedocs.org/en/latest/) testin
 Install
 -------
 
-Copy the files to your Packages directory.
+### Package Control (the easy way)
+Install [Sublime Package Control](http://wbond.net/sublime_packages/package_control) if you don't have it.
 
-### Mac OS X
+In the command pallette (Cmd-Shift+P on Mac) type 'Install' then press enter to see a list of packages. Search for 'Python Nose Snippets' then press enter to install.
+
+### ...OR copy files to your Packages directory.
+
+#### Mac OS X
     git clone git://github.com/sloria/sublime-nose-snippets.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Python/sublime-nose-snippets
 
-### Windows
+#### Windows
     git clone git://github.com/sloria/sublime-nose-snippets.git %userprofile%\AppData\Roaming\Sublime Text 2\Packages\Python\sublime-nose-snippets
 
 
