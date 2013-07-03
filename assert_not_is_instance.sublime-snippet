@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+assert_not_is_instance(${1:obj}, ${2:cls})
+]]></content>
+    <tabTrigger>_!isinstance</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

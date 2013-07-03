@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+assert_less_equal(${1:first}, ${2:second})
+]]></content>
+    <tabTrigger>_&lt;=</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

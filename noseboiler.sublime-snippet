@@ -1,0 +1,26 @@
+<snippet>
+    <content><![CDATA[
+import unittest
+from nose.tools import *  # PEP8 asserts
+
+
+class ExampleTest(unittest.TestCase):
+
+    '''An example unit test case.'''
+
+    def setUp(self):
+        pass
+
+    def tearDown(self):
+        pass
+
+    def test_add(self):
+        assert_equal(1 + 1, 2)
+
+
+if __name__ == '__main__':
+    unittest.main()
+]]></content>
+    <tabTrigger>noseboiler</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

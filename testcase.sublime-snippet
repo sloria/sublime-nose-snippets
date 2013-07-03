@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+class ${1:MODULE}Test(unittest.TestCase):
+
+    def setUp(self):
+        pass
+
+    def tearDown(self):
+        pass
+
+    def test_${2:FEATURE}(self):
+        assert False, "Finish me."
+]]></content>
+    <tabTrigger>testcase</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

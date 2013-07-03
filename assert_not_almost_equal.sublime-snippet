@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+assert_not_almost_equal(${1:first}, ${2:second}, places=${3:7})
+]]></content>
+    <tabTrigger>_!~=</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

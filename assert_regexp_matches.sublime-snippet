@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+assert_regexp_matches(${1:text}, ${2:regex})
+]]></content>
+    <tabTrigger>_matches</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

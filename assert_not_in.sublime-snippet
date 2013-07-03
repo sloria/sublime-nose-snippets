@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+assert_not_in(${1:member}, ${2:container})
+]]></content>
+    <tabTrigger>_!in</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+assert_is_not_none(${1:obj})
+]]></content>
+    <tabTrigger>_isnotnone</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+assert_is_not(${1:expr1}, ${2:expr2})
+]]></content>
+    <tabTrigger>_isnot</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
