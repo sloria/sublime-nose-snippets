@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+assert_raises(${1:Error})
+]]></content>
+    <tabTrigger>_raises</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
